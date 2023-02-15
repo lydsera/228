@@ -1,0 +1,23 @@
+[0318/115029:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0318/115104:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0318/115110:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0318/115140:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0318/115149:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0318/115153:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0318/115210:ERROR:render_widget_host_view_aura.cc(1605)] NOT IMPLEMENTED
+[0318/115210:ERROR:render_widget_host_view_aura.cc(1605)] NOT IMPLEMENTED
+[0318/115215:ERROR:render_widget_host_view_aura.cc(1605)] NOT IMPLEMENTED
+[0318/115215:ERROR:render_widget_host_view_aura.cc(1605)] NOT IMPLEMENTED
+[0318/115225:ERROR:webrtcsession.cc(1226)] ConnectDataChannel called when data_channel_ is NULL.
+[0318/115225:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0318/115225:WARNING:stunport.cc(385)] Jingle:Port[02E33E70:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0318/115225:WARNING:stunport.cc(385)] Jingle:Port[02E33E70:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0318/115225:WARNING:stunport.cc(385)] Jingle:Port[02E33E70:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0318/115225:WARNING:stunport.cc(385)] Jingle:Port[02E33E70:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0318/115225:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[04107118:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0318/115225:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[04106368:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0318/115253:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0318/121654:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0318/124654:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0318/130422:ERROR:shell.cc(348)] Cannot client process matching existing identity:Name: exe:content_gpu User: 505C0EE9-3013-43C0-82B0-A84F50CF8D84 Instance: content_gpu
+[0318/130422:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
